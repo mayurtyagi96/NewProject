@@ -13,7 +13,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("this is class 1")
         print("this is main class")
-        print("this is class 1")
         // Do any additional setup after loading the view.
     }
 
